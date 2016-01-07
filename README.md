@@ -9,7 +9,7 @@ with your [vue](http://vuejs.org/) front-end, using [vue-i18n](https://github.co
 ## Usage
 
 In your project:
-```composer require martinlindhe/laravel-vue-i18n-generator```
+```composer require andre-dw/laravel-vue-i18n-generator```
 
 In ```config/app.php``` providers:
 
@@ -71,6 +71,5 @@ Vue template:
 
 ## Notices
 
-The generated file is an ES6 module.
 
 [Pluralization](http://laravel.com/docs/5.1/localization#pluralization) don't work with vue-i18n
